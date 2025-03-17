@@ -126,7 +126,28 @@ Sev-B (Grace Period: 4 hours, Schedule: 24/7)
 <br/>
 Sev-C (Grace Period: 8 hours, Business Hours)
 <br/>
+</p>
+<br/>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<br/>
 
+<h3 align="center"> Configure Help Topics </h3>
+<br/>
+<p align="center">
+Configuring help topics for when users create tickets: Admin Panel > Manage > Help Topics:
+<br/>
+Business Critical Outage
+  <br/>
+Personal Computer Issues
+  <br/>
+Equipment Request
+  <br/>
+Password Reset
+  <br/>
+Other
+<br/>
 </p>
 <br/>
 <p>
