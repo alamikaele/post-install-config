@@ -45,7 +45,7 @@ Notice which one is the agent panel and which one is the admin panel
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/C84xKA9.png)" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -57,7 +57,7 @@ Configure the roles for grouping permissions. Admin Panel > Agents > Roles > Add
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hG4WiB6.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -68,18 +68,18 @@ Configure the Departments for grouping permissions. Admin Panel > Agents > Depar
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/DJmEXEB.png](https://i.imgur.com/QnfLhYK.png)" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
 <h3 align="center"> Configure Teams </h3>
 <br/>
 <p align="center">
-Configure the Departments for grouping permissions. Admin Panel > Agents > Teams > Add New Team > Name: SysAdmins > Parent: Online Banking > Create Team
+Configure the Teams for grouping permissions. Admin Panel > Agents > Teams > Add New Team > Name: Online Banking >  Create Team
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XWvGvN0.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -90,28 +90,28 @@ Admin Panel > Settings > Users > Uncheck "Require registration and login to crea
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VSeB1gB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
 <h3 align="center"> Configure Agents </h3>
 <br/>
 <p align="center">
-Configure the Agents for grouping permissions. Admin Panel > Agents > Add New AGent > Name: Jane Doe, Email: fake email (save it), Username: Jane > Access: Sys Admins / Supreme Admin > Teams: Online Banking > Name: John Doe, Email: fake email (save it), Username: John > Access: Sys Admins / Supreme Admin > Teams: Online Banking
+Configure the Agents for grouping permissions. Admin Panel > Agents > Add New Agent > Name: Jane Doe, Email: fake email (save it), Username: Jane > Access: Sys Admins / Select Role: Supreme Admin / Teams: Online Banking > Name: John Doe, Email: fake email (save it), Username: John > Access: Sys Admins / Supreme Admin > Teams: Online Banking
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8KjTyBa.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
 <h3 align="center"> Configure Users (customers) </h3>
 <br/>
 <p align="center">
-Configure the Users. Admin Panel > Users > Add User > Name: SysAdmins > email: fake email (save in notepad), name: karen > Add User
+Configure the Users. Agent Panel > Users > Add User > Name: Karen / email: fake email (save in notepad) > Add User
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/d1ZeDnQ.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -129,7 +129,7 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OJ284yd.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
@@ -151,7 +151,7 @@ Other
 </p>
 <br/>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hQ5WnlS.png" height="75%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <br/>
 
